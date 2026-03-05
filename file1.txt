@@ -1,1 +1,3 @@
 HI I am studying the git fetch
+
+Hi i am learning the git pull
